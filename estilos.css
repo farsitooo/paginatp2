@@ -1,0 +1,37 @@
+.hola {
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.lamamadelbobi {
+    font-size: 2em; /* Utiliza una unidad de medida relativa */
+    width: 80%; /* Utiliza una unidad de medida relativa */
+    align-items: center;
+    display: flex;
+    margin: 0 auto; /* Centra horizontalmente */
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background: rgb(53, 53, 53);
+}
+
+.texto {
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin: 1%;
+}
+
+.pregunta1,
+.pregunta2 {
+    color: white;
+    width: 80%; /* Utiliza una unidad de medida relativa */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto; /* Centra horizontalmente */
+    font-family: "Roboto", sans-serif;
+}
